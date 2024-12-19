@@ -1,4 +1,4 @@
-# Welcome to your DattaVishLeshan.A project
+# Welcome to your DattaVishLeshan.AI project
 
 ## Project info
 
