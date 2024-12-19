@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/26dcbd22-7218-4ba2-b443-18e86b536ecd
+**URL**: https://data-detective-lens.lovable.app/
 
 ## How can I edit this code?
 
