@@ -9,7 +9,7 @@
 There are several ways of editing your application.
 
 
-# helpful lovable.AI
+#  Thanks, helpful and lovable.AI!
 
 Follow these steps:
 
