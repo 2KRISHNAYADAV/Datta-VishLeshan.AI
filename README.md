@@ -1,4 +1,4 @@
-# Welcome to your DattaVishLeshan.AI project
+# 🙏 Welcome to your DattaVishLeshan.AI project
 
 ## Project info
 
@@ -9,7 +9,7 @@
 There are several ways of editing your application.
 
 
-#  Thanks, helpful and lovable.AI!
+#  Thanks for, helpful .. lovable.AI!
 
 Follow these steps:
 
