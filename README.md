@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://data-detective-lens.vercel.app/
+**URL**: https://dvan-ai.vercel.app/
 
 ## How can I edit this code?
 
