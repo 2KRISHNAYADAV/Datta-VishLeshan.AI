@@ -1,14 +1,27 @@
 # 🙏 Welcome to your DattaVishLeshan.AI project
 
+
+
+
+I created this web application to help aspiring data analysts understand how data analysis works. This platform is currently in the testing phase under the name **Dvan.ai**. I kindly request you to explore its features and share any challenges or issues you encounter. Your feedback will help me enhance the project further.  
+
+Excitingly, my next project is already in the pipeline, though it remains a secret for now. Stay tuned!  
+
+Thank you for taking the time to read my message.  
+Best regards,  
+**Krishna Shyambahadur Yadav**
+
+
+
+
 ## Project info
 
 **URL**: https://dvan-ai.vercel.app/
 
-### IMP
-### If you download this file and try to run it on your desktop or anywhere else, it will not work because it is just a demo file. The full version of the file is private. If you need access to the complete code, please email me personally, and I will provide it to you.
+## 📢... ANNOUNCEMENTS 
+#### If you download this file and try to run it on your desktop or anywhere else, it will not work because it is just a demo file. The full version of the file is private. If you need access to the complete code, please email me personally, and I will provide it to you.
 
-There are several ways of editing your application.
-
+- Only upload a CSV file in the drop section. If you encounter any errors, please check and correct the data for analysis. Additionally, ensure you are using a desktop device, such as a laptop or computer, as it may not work on mobile phones. I am working to resolve this issue. For any queries, feel free to email me or message me on WhatsApp.
 
 
 
