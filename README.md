@@ -4,7 +4,8 @@
 
 **URL**: https://dvan-ai.vercel.app/
 
-## How can I edit this code?
+### IMP
+### If you download this file and try to run it on your desktop or anywhere else, it will not work because it is just a demo file. The full version of the file is private. If you need access to the complete code, please email me personally, and I will provide it to you.
 
 There are several ways of editing your application.
 
